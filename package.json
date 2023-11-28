@@ -1,5 +1,6 @@
 {
   "name": "comit-2023-2-next-todo-app",
+  "packageManager": "pnpm@8.11.0",
   "version": "0.1.0",
   "private": true,
   "scripts": {
